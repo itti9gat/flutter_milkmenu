@@ -1,6 +1,7 @@
 # Milk Menu
 
-[![Watch the video]](https://raw.githubusercontent.com/itti9gat/flutter_milkmenu/master/movie/milk_menu.mov)
+[![Watch the video](https://raw.githubusercontent.com/itti9gat/flutter_milkmenu/master/movie/ss01.png)](https://raw.githubusercontent.com/itti9gat/flutter_milkmenu/master/movie/milk_menu.mov)
+
 
 ### Usage
 Make sure you have Flutter installed on your local machine. 
